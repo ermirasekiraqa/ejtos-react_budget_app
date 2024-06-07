@@ -24,4 +24,4 @@ const ExpenseList = () => {
     );
 };
 
-export default ExpenseList;s
+export default ExpenseList;
